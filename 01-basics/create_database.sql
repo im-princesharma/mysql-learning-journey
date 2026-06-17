@@ -7,13 +7,13 @@
 -- Create a new database
 CREATE DATABASE CollegeDB;
 
--- Display all databases
+-- Display all available databases
 SHOW DATABASES;
 
 -- Select the database
 USE CollegeDB;
 
--- Display current database
+-- Display the currently selected database
 SELECT DATABASE();
 
 -- Create another sample database
