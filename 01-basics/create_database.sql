@@ -15,4 +15,4 @@ CREATE DATABASE StudentDB;
 
 -- Show databases again
 SHOW DATABASES;
-
+ 
