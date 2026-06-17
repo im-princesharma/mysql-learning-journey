@@ -1,4 +1,10 @@
--- Use database
+-- ==================================================
+-- File: create_table.sql
+-- Topic: Table Creation
+-- Purpose: Learn how to create tables
+-- ==================================================
+
+-- Select database
 USE CollegeDB;
 
 -- Create Student table
@@ -15,8 +21,11 @@ CREATE TABLE Course (
     Course_Name VARCHAR(50)
 );
 
--- Show tables
+-- Show all tables
 SHOW TABLES;
 
--- Display table structure
+-- Display structure of Student table
 DESC Student;
+
+-- Display structure of Course table
+DESC Course;
