@@ -1,4 +1,4 @@
--- ==================================================
+\-- ==================================================
 -- Title   : Drop View
 -- Purpose : Remove an existing SQL View.
 -- Working : Demonstrates creation, usage and
