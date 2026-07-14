@@ -1,6 +1,6 @@
 -- ==================================================
 -- File: insert_data.sql 
--- Topic: Insert Records    
+-- Topic: Insert Records     
 -- Purpose: Learn how to add data into tables 
 -- ==================================================    
    
