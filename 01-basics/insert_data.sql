@@ -3,7 +3,7 @@
 -- Topic: Insert Records 
 -- Purpose: Learn how to add data into tables
 -- ================================================== 
- 
+  
 -- Select database
 USE CollegeDB; 
  
