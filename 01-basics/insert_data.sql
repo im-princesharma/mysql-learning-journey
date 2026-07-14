@@ -4,7 +4,7 @@
 -- Purpose: Learn how to add data into tables 
 -- ==================================================    
    
--- Select database   
+-- Select database    
 USE CollegeDB;  
  
 -- Insert first student
