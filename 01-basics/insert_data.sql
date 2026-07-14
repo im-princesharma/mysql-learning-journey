@@ -8,7 +8,7 @@
 USE CollegeDB;  
  
 -- Insert first student 
-INSERT INTO Student
+INSERT INTO Student 
 VALUES (1,'Prince',19,'Delhi');
 
 -- Insert second student
