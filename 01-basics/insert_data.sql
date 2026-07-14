@@ -5,7 +5,7 @@
 -- ================================================== 
  
 -- Select database
-USE CollegeDB;
+USE CollegeDB; 
  
 -- Insert first student
 INSERT INTO Student
