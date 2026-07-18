@@ -1,5 +1,5 @@
 -- Create a database 
-CREATE DATABASE TestDB;  
+CREATE DATABASE TestDB;   
  
 -- Show databases       
 SHOW DATABASES;       
