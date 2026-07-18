@@ -1,7 +1,7 @@
 -- Create a database
 CREATE DATABASE TestDB; 
 
--- Show databases   
+-- Show databases    
 SHOW DATABASES; 
   
 -- Remove database 
