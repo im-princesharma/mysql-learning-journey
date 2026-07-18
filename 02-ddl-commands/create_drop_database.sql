@@ -6,6 +6,6 @@ SHOW DATABASES;
  
 -- Remove database
 DROP DATABASE TestDB;
-
+ 
 -- Show databases again
 SHOW DATABASES;
