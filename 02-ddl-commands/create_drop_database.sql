@@ -1,4 +1,4 @@
--- Create a database
+-- Create a database 
 CREATE DATABASE TestDB; 
 
 -- Show databases    
