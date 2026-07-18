@@ -1,6 +1,6 @@
 -- Create a database 
 CREATE DATABASE TestDB;   
-  
+   
 -- Show databases       
 SHOW DATABASES;         
   
