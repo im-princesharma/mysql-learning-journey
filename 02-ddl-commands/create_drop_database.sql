@@ -2,7 +2,7 @@
 CREATE DATABASE TestDB;   
   
 -- Show databases       
-SHOW DATABASES;        
+SHOW DATABASES;         
   
 -- Remove database    
 DROP DATABASE TestDB;   
