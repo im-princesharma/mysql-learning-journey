@@ -1,5 +1,5 @@
 -- ==================================================
--- File: alter_table.sql  
+-- File: alter_table.sql   
 -- Topic: ALTER TABLE   
 -- Purpose: Modify an existing table structure 
 -- ==================================================  
