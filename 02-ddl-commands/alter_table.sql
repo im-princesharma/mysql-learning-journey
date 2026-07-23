@@ -1,6 +1,6 @@
 -- ==================================================
 -- File: alter_table.sql 
--- Topic: ALTER TABLE  
+-- Topic: ALTER TABLE   
 -- Purpose: Modify an existing table structure 
 -- ================================================== 
 
