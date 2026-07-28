@@ -18,7 +18,7 @@ CREATE TABLE Student (
 );
 
 INSERT INTO Department VALUES
-(1, 'Computer Science'),
+(1, 'Computer Science'), 
 (2, 'Artificial Intelligence'),
 (3, 'Management');
 
