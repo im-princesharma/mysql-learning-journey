@@ -2,7 +2,7 @@
 -- File: inner_join.sql
 -- Topic: INNER JOIN
 -- Purpose: Display only matching records from both tables
--- ==================================================
+-- ================================================== 
 
 USE CollegeDB;
 
