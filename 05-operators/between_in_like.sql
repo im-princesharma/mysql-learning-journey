@@ -8,7 +8,7 @@ USE CollegeDB;
 SELECT * FROM Student
 WHERE Age BETWEEN 18 AND 22;
 
-SELECT * FROM Student
+SELECT * FROM Student 
 WHERE StudentID BETWEEN 1 AND 10;
 
 -- IN
