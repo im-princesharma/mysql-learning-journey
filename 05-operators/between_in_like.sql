@@ -5,7 +5,7 @@
 USE CollegeDB;
 
 -- BETWEEN
-SELECT * FROM Student
+SELECT * FROM Student 
 WHERE Age BETWEEN 18 AND 22;
 
 SELECT * FROM Student 
