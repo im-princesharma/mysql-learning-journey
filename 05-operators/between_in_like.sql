@@ -1,6 +1,6 @@
 -- File: between_in_like.sql
 -- Topic: BETWEEN IN LIKE
--- Purpose: Advanced filtering techniques
+-- Purpose: Advanced filtering techniques 
 
 USE CollegeDB;
 
