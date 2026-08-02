@@ -32,4 +32,4 @@ SELECT * FROM Student
 WHERE Name LIKE '_a%';
 
 SELECT * FROM Student
-WHERE City LIKE 'D%';
+WHERE City LIKE 'D%'; 
