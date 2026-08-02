@@ -25,7 +25,7 @@ WHERE Name LIKE 'R%';
 SELECT * FROM Student
 WHERE Name LIKE '%a'; 
  
-SELECT * FROM Student
+SELECT * FROM Student 
 WHERE Name LIKE '%h%'; 
  
 SELECT * FROM Student
