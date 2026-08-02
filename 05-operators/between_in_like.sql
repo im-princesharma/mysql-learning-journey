@@ -12,7 +12,7 @@ SELECT * FROM Student
 WHERE StudentID BETWEEN 1 AND 10;
 
 -- IN
-SELECT * FROM Student
+SELECT * FROM Student 
 WHERE City IN ('Delhi', 'Mumbai');
  
 SELECT * FROM Student
