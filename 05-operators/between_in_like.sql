@@ -13,7 +13,7 @@ WHERE StudentID BETWEEN 1 AND 10;
 
 -- IN
 SELECT * FROM Student 
-WHERE City IN ('Delhi', 'Mumbai'); 
+WHERE City IN ('Delhi', 'Mumbai');  
  
 SELECT * FROM Student
 WHERE Age IN (18, 20, 22);   
