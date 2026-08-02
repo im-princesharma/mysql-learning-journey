@@ -20,7 +20,7 @@ WHERE Age IN (18, 20, 22);
 
 -- LIKE  
 SELECT * FROM Student
-WHERE Name LIKE 'R%';
+WHERE Name LIKE 'R%'; 
 
 SELECT * FROM Student
 WHERE Name LIKE '%a';
