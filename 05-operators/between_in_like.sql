@@ -23,7 +23,7 @@ SELECT * FROM Student
 WHERE Name LIKE 'R%';   
   
 SELECT * FROM Student
-WHERE Name LIKE '%a';  
+WHERE Name LIKE '%a';   
   
 SELECT * FROM Student      
 WHERE Name LIKE '%h%';     
