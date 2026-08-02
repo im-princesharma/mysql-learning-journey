@@ -16,7 +16,7 @@ SELECT * FROM Student
 WHERE City IN ('Delhi', 'Mumbai');
 
 SELECT * FROM Student
-WHERE Age IN (18, 20, 22); 
+WHERE Age IN (18, 20, 22);  
 
 -- LIKE  
 SELECT * FROM Student
