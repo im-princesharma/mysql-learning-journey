@@ -12,7 +12,7 @@ CREATE TABLE Department (
 CREATE TABLE Student ( 
     StudentID INT PRIMARY KEY, 
     Name VARCHAR(50),
-    DepartmentID INT,
+    DepartmentID INT, 
     FOREIGN KEY (DepartmentID)
     REFERENCES Department(DepartmentID) 
 );
