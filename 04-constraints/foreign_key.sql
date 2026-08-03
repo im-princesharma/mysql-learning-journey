@@ -9,7 +9,7 @@ CREATE TABLE Department (
     DepartmentName VARCHAR(50)  
 );  
   
-CREATE TABLE Student (    
+CREATE TABLE Student (     
     StudentID INT PRIMARY KEY,  
     Name VARCHAR(50), 
     DepartmentID INT,    
