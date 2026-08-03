@@ -6,7 +6,7 @@ USE CollegeDB;
 
 CREATE TABLE Department (
     DepartmentID INT PRIMARY KEY,
-    DepartmentName VARCHAR(50)
+    DepartmentName VARCHAR(50) 
 );
 
 CREATE TABLE Student (
