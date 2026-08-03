@@ -16,5 +16,5 @@ CREATE TABLE Student (
     FOREIGN KEY (DepartmentID)
     REFERENCES Department(DepartmentID)
 );
-
+ 
 DESC Student;
