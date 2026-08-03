@@ -14,7 +14,7 @@ CREATE TABLE Student (
     Name VARCHAR(50),
     DepartmentID INT,
     FOREIGN KEY (DepartmentID)
-    REFERENCES Department(DepartmentID)
+    REFERENCES Department(DepartmentID) 
 );
  
 DESC Student;
