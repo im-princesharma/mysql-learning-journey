@@ -11,7 +11,7 @@ CREATE TABLE Department (
   
 CREATE TABLE Student (   
     StudentID INT PRIMARY KEY,  
-    Name VARCHAR(50),
+    Name VARCHAR(50), 
     DepartmentID INT,  
     FOREIGN KEY (DepartmentID)
     REFERENCES Department(DepartmentID) 
