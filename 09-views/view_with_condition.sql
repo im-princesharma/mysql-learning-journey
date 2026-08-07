@@ -19,7 +19,7 @@ SELECT EmployeeName,
        Salary
 FROM ITEmployees;
  
-SELECT *  
+SELECT *     
 FROM ITEmployees ;
 WHERE Salary > 55000; 
 
