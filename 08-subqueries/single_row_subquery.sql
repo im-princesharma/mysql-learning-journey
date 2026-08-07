@@ -21,7 +21,7 @@ INSERT INTO Employees VALUES
 SELECT EmployeeID,
        EmployeeName,
        Salary
-FROM Employees 
+FROM Employees  
 WHERE Salary >
 (
     SELECT AVG(Salary)
