@@ -17,7 +17,7 @@ SELECT * FROM ITEmployees;
  
 SELECT EmployeeName,
        Salary
-FROM ITEmployees;
+FROM ITEmployees; 
  
 SELECT *     
 FROM ITEmployees ;
