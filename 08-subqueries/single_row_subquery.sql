@@ -5,7 +5,7 @@
 -- Working : Finds employees earning more than
 --           the average salary.
 -- ==================================================
-
+ 
 CREATE TABLE Employees (
     EmployeeID INT PRIMARY KEY, 
     EmployeeName VARCHAR(50),
