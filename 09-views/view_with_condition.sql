@@ -25,3 +25,4 @@ WHERE Salary > 55000;
 
 SELECT COUNT(*) AS TotalITEmployees
 FROM ITEmployees;
+ 
