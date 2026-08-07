@@ -6,7 +6,7 @@
 -- ==================================================
 
 CREATE VIEW ITEmployees AS 
-SELECT  
+SELECT   
     EmployeeID, 
     EmployeeName, 
     Salary 
