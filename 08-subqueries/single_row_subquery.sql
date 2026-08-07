@@ -3,7 +3,7 @@
 -- Purpose : Retrieve records using a subquery
 --           that returns a single value.
 -- Working : Finds employees earning more than
---           the average salary.
+--           the average salary. 
 -- ==================================================
  
 CREATE TABLE Employees (
