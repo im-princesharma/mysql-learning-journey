@@ -5,7 +5,7 @@
 --           IT department.
 -- ==================================================
 
-CREATE VIEW ITEmployees AS
+CREATE VIEW ITEmployees AS 
 SELECT
     EmployeeID,
     EmployeeName,
