@@ -21,7 +21,7 @@ FROM ITEmployees;
  
 SELECT *
 FROM ITEmployees
-WHERE Salary > 55000;
+WHERE Salary > 55000; 
 
 SELECT COUNT(*) AS TotalITEmployees
 FROM ITEmployees;
