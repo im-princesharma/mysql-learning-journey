@@ -10,7 +10,7 @@ SELECT
     EmployeeID,
     EmployeeName,
     Salary
-FROM Employees
+FROM Employees 
 WHERE Department = 'IT';
 
 SELECT * FROM ITEmployees;
