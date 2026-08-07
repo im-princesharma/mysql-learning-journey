@@ -8,7 +8,7 @@
 CREATE VIEW ITEmployees AS 
 SELECT  
     EmployeeID, 
-    EmployeeName,
+    EmployeeName, 
     Salary 
 FROM Employees  
 WHERE Department = 'IT'; 
