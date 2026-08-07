@@ -7,7 +7,7 @@
 
 CREATE VIEW ITEmployees AS 
 SELECT
-    EmployeeID,
+    EmployeeID, 
     EmployeeName,
     Salary
 FROM Employees 
