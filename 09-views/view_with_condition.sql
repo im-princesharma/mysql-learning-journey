@@ -2,8 +2,8 @@
 -- Title   : View With Condition
 -- Purpose : Create filtered views.
 -- Working : Displays only employees from the 
---           IT department.
--- ==================================================
+--           IT department. 
+-- ================================================== 
 
 CREATE VIEW ITEmployees AS 
 SELECT   
