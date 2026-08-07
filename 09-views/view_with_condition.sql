@@ -11,7 +11,7 @@ SELECT
     EmployeeName,
     Salary 
 FROM Employees 
-WHERE Department = 'IT';
+WHERE Department = 'IT'; 
 
 SELECT * FROM ITEmployees;
  
