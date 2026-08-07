@@ -11,7 +11,7 @@ CREATE TABLE Employees (
     EmployeeName VARCHAR(50),
     Salary INT 
 );
-  
+    
 INSERT INTO Employees VALUES
 (1, 'Rahul', 30000),
 (2, 'Priya', 45000),
