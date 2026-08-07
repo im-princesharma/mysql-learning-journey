@@ -20,7 +20,7 @@ SELECT EmployeeName,
 FROM ITEmployees;
  
 SELECT * 
-FROM ITEmployees
+FROM ITEmployees 
 WHERE Salary > 55000; 
 
 SELECT COUNT(*) AS TotalITEmployees
