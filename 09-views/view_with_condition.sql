@@ -18,7 +18,7 @@ SELECT * FROM ITEmployees;
 SELECT EmployeeName,
        Salary
 FROM ITEmployees;
-
+ 
 SELECT *
 FROM ITEmployees
 WHERE Salary > 55000;
