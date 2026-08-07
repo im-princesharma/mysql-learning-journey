@@ -13,7 +13,7 @@ SELECT
 FROM Employees  
 WHERE Department = 'IT'; 
 
-SELECT * FROM ITEmployees;
+SELECT * FROM ITEmployees; 
  
 SELECT EmployeeName,
        Salary
