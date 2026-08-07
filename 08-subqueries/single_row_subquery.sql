@@ -13,7 +13,7 @@ CREATE TABLE Employees (
 );
     
 INSERT INTO Employees VALUES
-(1, 'Rahul', 30000),
+(1, 'Rahul', 30000), 
 (2, 'Priya', 45000), 
 (3, 'Amit', 50000),
 (4, 'Neha', 35000);
