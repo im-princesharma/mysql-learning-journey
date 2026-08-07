@@ -1,7 +1,7 @@
 -- ==================================================
 -- Title   : View With Condition
 -- Purpose : Create filtered views.
--- Working : Displays only employees from the
+-- Working : Displays only employees from the 
 --           IT department.
 -- ==================================================
 
