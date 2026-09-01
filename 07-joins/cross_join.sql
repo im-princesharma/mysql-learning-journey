@@ -12,5 +12,5 @@ SELECT
 FROM Student
 CROSS JOIN Department;
 
--- Total Rows =
+-- Total Rows = 
 -- Number of Students × Number of Departments
