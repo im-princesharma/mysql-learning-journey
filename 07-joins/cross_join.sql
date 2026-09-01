@@ -9,7 +9,7 @@ USE CollegeDB;
 SELECT
     Student.Name, 
     Department.DepartmentName
-FROM Student
+FROM Student 
 CROSS JOIN Department;
 
 -- Total Rows = 
