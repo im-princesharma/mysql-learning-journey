@@ -1,6 +1,6 @@
 -- ==================================================
 -- File: cross_join.sql
--- Topic: CROSS JOIN
+-- Topic: CROSS JOIN 
 -- Purpose: Generate all possible combinations of rows 
 -- ==================================================
 
