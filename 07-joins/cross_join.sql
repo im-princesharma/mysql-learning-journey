@@ -2,7 +2,7 @@
 -- File: cross_join.sql
 -- Topic: CROSS JOIN 
 -- Purpose: Generate all possible combinations of rows 
--- ==================================================
+-- ================================================== 
 
 USE CollegeDB;
 
